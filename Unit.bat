@@ -1,0 +1,1 @@
+echo "Running all Unit tests in the project : %date% : %time%"

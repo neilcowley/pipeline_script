@@ -1,0 +1,1 @@
+echo "Running SonarQube Gate in project : %date% : %time%"
